@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Crop field">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#4c8d3f" />
+      <stop offset="1" stop-color="#a4d63f" />
+    </linearGradient>
+    <linearGradient id="soil" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#4d341f" />
+      <stop offset="1" stop-color="#2f1d12" />
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#7ecf3d" />
+      <stop offset="1" stop-color="#3f9f33" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="url(#bg)" />
+  <path d="M0 360C140 330 280 370 450 340C610 310 760 350 900 320V520H0Z" fill="url(#soil)" />
+
+  <g opacity="0.95">
+    <path d="M80 360C95 300 120 260 150 230C140 270 140 320 132 360Z" fill="url(#leaf)" />
+    <path d="M130 360C145 300 170 260 200 230C190 270 190 320 182 360Z" fill="url(#leaf)" />
+    <path d="M210 360C225 300 250 260 280 230C270 270 270 320 262 360Z" fill="url(#leaf)" />
+    <path d="M290 360C305 300 330 260 360 230C350 270 350 320 342 360Z" fill="url(#leaf)" />
+    <path d="M370 360C385 300 410 260 440 230C430 270 430 320 422 360Z" fill="url(#leaf)" />
+    <path d="M450 360C465 300 490 260 520 230C510 270 510 320 502 360Z" fill="url(#leaf)" />
+    <path d="M530 360C545 300 570 260 600 230C590 270 590 320 582 360Z" fill="url(#leaf)" />
+    <path d="M610 360C625 300 650 260 680 230C670 270 670 320 662 360Z" fill="url(#leaf)" />
+    <path d="M690 360C705 300 730 260 760 230C750 270 750 320 742 360Z" fill="url(#leaf)" />
+    <path d="M770 360C785 300 810 260 840 230C830 270 830 320 822 360Z" fill="url(#leaf)" />
+  </g>
+</svg>

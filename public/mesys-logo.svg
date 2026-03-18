@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 86" role="img" aria-label="MESYS logo">
+  <path
+    d="M34 20a22 22 0 1 0 0 44h30V52H34a10 10 0 1 1 0-20h30V20H34z"
+    fill="#EDC247"
+  />
+  <rect x="34" y="34" width="43" height="18" rx="9" fill="#34307F" />
+  <text
+    x="80"
+    y="48"
+    font-family="Outfit, Segoe UI, sans-serif"
+    font-size="20"
+    font-weight="800"
+    fill="#34307F"
+  >
+    MESYS
+  </text>
+</svg>

@@ -1,0 +1,17 @@
+:root {
+  --primary: #1f8a4c;
+  --primary-strong: #186b3a;
+  --bg: #07131e;
+  --bg-layer: #0d1b2a;
+  --surface: #ffffff;
+  --surface-soft: #f6f7f8;
+  --text-main: #102233;
+  --text-muted: #5a6b79;
+  --text-inverse: #f8fbff;
+  --border: #e6e9ee;
+  --alert-red: #f8d7da;
+  --alert-yellow: #fff3cd;
+  --alert-green: #d1e7dd;
+  --danger: #ba1a1a;
+  --shadow: 0 16px 40px rgba(3, 14, 24, 0.2);
+}
