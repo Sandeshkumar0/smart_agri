@@ -1,0 +1,7 @@
+
+> server@1.0.0 start
+> node server.js
+
+[dotenv@17.3.1] injecting env (7) from .env -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+Smart Agri API running on http://localhost:8000

@@ -1,0 +1,3706 @@
+{
+  "farmers": [],
+  "crops": [],
+  "fields": [],
+  "fieldCrops": [],
+  "scans": [],
+  "weatherLogs": [
+    {
+      "id": "509f6493-cc89-4015-a600-674c34d2b133",
+      "createdAt": "2026-03-23T20:09:01.369Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da7b7ef1-3dab-4c9d-ae30-66f9e5ff3a6d",
+      "createdAt": "2026-03-23T20:09:02.641Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69779b2d-9ce7-4cd9-9b8c-e3c14375dfb8",
+      "createdAt": "2026-03-23T20:09:03.481Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f86f65f3-3338-4f30-b107-82f1494fa288",
+      "createdAt": "2026-03-23T20:09:47.887Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1ee891a7-c838-47ce-ac1c-67fd646c9468",
+      "createdAt": "2026-03-23T20:10:33.030Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7fb003c7-8693-480c-8181-d36c1ebbb542",
+      "createdAt": "2026-03-23T20:11:18.429Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "952568c9-e72d-4467-9e69-fd1f0398452a",
+      "createdAt": "2026-03-23T20:11:27.749Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e3021d6-1056-4462-9802-39b8219d7e0d",
+      "createdAt": "2026-03-23T20:12:12.043Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdd3e5dc-d6bb-45df-861b-6b1710ba31aa",
+      "createdAt": "2026-03-23T20:13:06.265Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8aa070d7-95fd-495a-b7a3-ee753dbba872",
+      "createdAt": "2026-03-23T20:13:45.370Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f7e0497-a300-4122-9623-8a8c0bc3c9e7",
+      "createdAt": "2026-03-23T20:14:26.924Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c6690db-a3fb-4e83-b74a-57797ebcf14d",
+      "createdAt": "2026-03-23T20:15:11.876Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ad8fb9a1-af9f-4099-b9a2-fd3ee29e1f65",
+      "createdAt": "2026-03-23T20:15:56.959Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8fc50f48-8c04-4139-b5e3-499bad716172",
+      "createdAt": "2026-03-23T20:16:44.174Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5d5301e9-6311-4a28-8a3e-0b049e716a2f",
+      "createdAt": "2026-03-23T20:17:26.968Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b06d00c7-4dfb-48eb-8f75-cb60da68b639",
+      "createdAt": "2026-03-23T20:18:11.923Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "274ad8b7-bbd3-4b16-b3dc-4e6a2aa064e2",
+      "createdAt": "2026-03-23T20:18:58.610Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "80f28edf-76db-4e63-b370-ece4bf641c29",
+      "createdAt": "2026-03-23T20:19:42.642Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b564478-d19a-48f5-80ce-c7915a9069bc",
+      "createdAt": "2026-03-23T20:20:27.207Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6d865195-0682-4b02-bdc3-37c49020b814",
+      "createdAt": "2026-03-23T20:21:14.270Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c0c0c0c1-5686-47a3-a1ca-27e0ac1ebc9e",
+      "createdAt": "2026-03-23T20:21:15.308Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "23270b4a-50f9-4ceb-a53d-b5a178259af5",
+      "createdAt": "2026-03-23T20:21:58.518Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24ad6e62-ca7d-4d32-bdab-d6246938469d",
+      "createdAt": "2026-03-23T20:22:43.330Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3309a922-fd42-43bf-98e7-aeeb6b701450",
+      "createdAt": "2026-03-23T20:23:28.320Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe103ebb-8852-44fb-bcd5-ca7afe427703",
+      "createdAt": "2026-03-23T20:24:13.318Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c36b0d31-84cf-4a06-8e2d-2f2a4742a6d9",
+      "createdAt": "2026-03-23T20:24:58.306Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "451f0961-f8c2-4e31-b7f8-d58d6ec3b1d6",
+      "createdAt": "2026-03-23T20:25:43.345Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfd3b4ec-5fdd-44aa-9a19-a9ab7171edd9",
+      "createdAt": "2026-03-23T20:26:27.746Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1a69177f-e9b1-4030-97ff-b6fa448b7362",
+      "createdAt": "2026-03-23T20:26:37.701Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d3c3c2d-ed2e-4d2f-83f5-48146e35df44",
+      "createdAt": "2026-03-23T20:26:38.735Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fd4fc8e4-7f64-4d7a-89bc-796be06fdab6",
+      "createdAt": "2026-03-23T20:27:21.230Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc78a05b-be01-4bc3-907b-65c7940be36c",
+      "createdAt": "2026-03-23T20:28:06.270Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 0,
+        "lon": 0
+      },
+      "payload": {
+        "location": "Meri Location",
+        "current": {
+          "tempC": 27,
+          "feelsLikeC": 29,
+          "humidity": 77,
+          "windKmph": 17,
+          "condition": "Cloudy",
+          "iconCode": "c03d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 27,
+            "minTemp": 27,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 28,
+            "minTemp": 28,
+            "rainChance": 8,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 24,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 96,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 28,
+            "minTemp": 27,
+            "rainChance": 80,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          }
+        ]
+      }
+    },
+    {
+      "id": "938a9d9b-2368-4a53-a42d-85be58e4c6db",
+      "createdAt": "2026-03-23T20:28:27.000Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bbcda1f8-c56b-45c1-834e-8968cbbecb26",
+      "createdAt": "2026-03-23T20:29:12.032Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3bd6dfb8-7b16-4e99-a5de-13df20e2fb2f",
+      "createdAt": "2026-03-23T20:29:57.236Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "455bd263-a571-487e-8018-6a4e72e9ac03",
+      "createdAt": "2026-03-23T20:30:42.267Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e8a07fd-9e79-4df5-8e97-4513a54a09c5",
+      "createdAt": "2026-03-23T20:31:27.273Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a1c9787b-0dd2-45c0-93f4-6ed9048e532f",
+      "createdAt": "2026-03-23T20:32:11.498Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ff1acbd-3ef2-4abd-953e-4a1c4e8f1b3a",
+      "createdAt": "2026-03-23T20:32:56.970Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6ebcd19d-a46c-4b62-ba6a-6c9401d68650",
+      "createdAt": "2026-03-23T20:33:41.646Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9c64f951-10a9-4168-981f-cfca93aa4d40",
+      "createdAt": "2026-03-23T20:34:19.499Z",
+      "provider": "openweather",
+      "request": {
+        "lat": "20.362659",
+        "lon": "85.815369"
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a7600d80-e135-48f5-b8c6-4db3d9c68b5b",
+      "createdAt": "2026-03-23T20:34:19.682Z",
+      "provider": "openweather",
+      "request": {
+        "lat": "20.362659",
+        "lon": "85.815369"
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc7648d3-92fe-40b1-83bb-9f4926d0d329",
+      "createdAt": "2026-03-23T20:34:26.702Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1f758846-e53d-4e91-93ca-6b33945fccf1",
+      "createdAt": "2026-03-23T20:35:12.320Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a0daa163-7863-494c-848e-2550ed1f5a30",
+      "createdAt": "2026-03-23T20:35:16.507Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3608f469-95a3-4a15-8fcc-2419c83eef94",
+      "createdAt": "2026-03-23T20:35:17.685Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "74b0df3d-9633-4b4d-b870-8f3bc9396ba5",
+      "createdAt": "2026-03-23T20:36:01.217Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ed64010-8685-4669-8c9d-3ad327d5e062",
+      "createdAt": "2026-03-23T20:36:46.084Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7c7347ba-adc8-4712-8c90-f27b252de125",
+      "createdAt": "2026-03-23T20:37:31.139Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "245d31b7-d4e8-4809-9ca1-c2c4213c4b66",
+      "createdAt": "2026-03-23T20:38:16.284Z",
+      "provider": "openweather",
+      "request": {
+        "lat": 20.362659,
+        "lon": 85.815369
+      },
+      "payload": {
+        "location": "Bhubaneswar Municipal Corporation, Odisha, IN",
+        "current": {
+          "tempC": 25,
+          "feelsLikeC": 26,
+          "humidity": 94,
+          "windKmph": 6,
+          "condition": "Fog",
+          "iconCode": "a01d"
+        },
+        "daily": [
+          {
+            "date": "2026-03-23",
+            "maxTemp": 25,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-24",
+            "maxTemp": 34,
+            "minTemp": 22,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-25",
+            "maxTemp": 36,
+            "minTemp": 23,
+            "rainChance": 0,
+            "iconCode": "c01d",
+            "condition": "Clear"
+          },
+          {
+            "date": "2026-03-26",
+            "maxTemp": 40,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          },
+          {
+            "date": "2026-03-27",
+            "maxTemp": 40,
+            "minTemp": 23,
+            "rainChance": 20,
+            "iconCode": "r01d",
+            "condition": "Rain"
+          },
+          {
+            "date": "2026-03-28",
+            "maxTemp": 38,
+            "minTemp": 24,
+            "rainChance": 0,
+            "iconCode": "c03d",
+            "condition": "Cloudy"
+          }
+        ]
+      }
+    }
+  ],
+  "recentAlerts": [],
+  "fieldHealth": [],
+  "yieldTrend": [
+    {
+      "month": "2008",
+      "actual": 1.93,
+      "predicted": 1.97
+    },
+    {
+      "month": "2009",
+      "actual": 1.74,
+      "predicted": 1.99
+    },
+    {
+      "month": "2010",
+      "actual": 2.19,
+      "predicted": 2.01
+    },
+    {
+      "month": "2011",
+      "actual": 2.09,
+      "predicted": 2.03
+    },
+    {
+      "month": "2012",
+      "actual": 2.06,
+      "predicted": 2.05
+    },
+    {
+      "month": "2013",
+      "actual": 2.26,
+      "predicted": 2.07
+    },
+    {
+      "month": "2014",
+      "actual": 2.15,
+      "predicted": 2.09
+    },
+    {
+      "month": "2015",
+      "actual": 2.19,
+      "predicted": 2.11
+    },
+    {
+      "month": "2016",
+      "actual": 1.93,
+      "predicted": 2.13
+    },
+    {
+      "month": "2017",
+      "actual": 2.01,
+      "predicted": 2.15
+    },
+    {
+      "month": "2018",
+      "actual": 2.25,
+      "predicted": 2.17
+    },
+    {
+      "month": "2019",
+      "actual": 2.19,
+      "predicted": 2.19
+    }
+  ],
+  "soilProfile": [
+    {
+      "name": "Nitrogen",
+      "value": 100,
+      "color": "#52B788"
+    },
+    {
+      "name": "Phosphorus",
+      "value": 50,
+      "color": "#E9A15F"
+    },
+    {
+      "name": "Potassium",
+      "value": 40,
+      "color": "#3C78D8"
+    },
+    {
+      "name": "pH Level",
+      "value": 65,
+      "color": "#6D3FD8"
+    }
+  ],
+  "mandiMarkets": [],
+  "coldStorages": [],
+  "assistantMessages": [
+    {
+      "id": "msg_1774067397998",
+      "role": "user",
+      "text": "mere gehu mein keeda lag gaya",
+      "createdAt": "2026-03-21T04:29:57.998Z"
+    },
+    {
+      "id": "msg_1774067400073",
+      "role": "assistant",
+      "text": "🐛 Keeda: Gehun ka Tana Chhedak (Stem Borer) ya Gunda (Aphids) ho sakta hai\n⚠️ Khatra: Thoda\n🌱 Kya hua: Gehu ki fasal mein koi keeda lag gaya hai, jiski wajah se fasal ko nuksaan ho raha hai.\n✅ Kya karo: Sabse pehle, khet mein jaakar dekho ki keeda kahan aur kitna zyada hai. | Agar chhota keeda hai (jaise laal/kaale), toh neem tel (5 ml per litre paani) ka chhidkaav karo. | Agar zyada nuksaan hai, toh kisi local agriculture expert ya KVK se milkar sahi dawai ka naam pata karo.\n💊 Dawa: Neem Tel (shuruaati ilaaj ke liye)",
+      "createdAt": "2026-03-21T04:30:00.073Z"
+    },
+    {
+      "id": "msg_1774177906254",
+      "role": "user",
+      "text": "Dhaan me paani kab dena hai?",
+      "createdAt": "2026-03-22T11:11:46.254Z"
+    },
+    {
+      "id": "msg_1774177910931",
+      "role": "assistant",
+      "text": "Fasal: Dhaan (Paddy/Rice)\nKab paani: Jab khet mein 1 inch paani hamesha bana rahe, khaas kar jadd banane aur mitti mein daana bharne ke samay. Paani sukhne na dein.\nKitna paani: Khet mein lagbhag 2 se 5 inch tak paani bana rehna chahiye, lekin zyada bharaav bhi na ho.\nTips: Jab dhaan lagane ke baad 7 din tak paani na dein, phir halka paani dein. | Jab phool nikalne waale hon, us samay khet mein paani hamesha bana rahe. | Paani kam hone par fasal sukh sakti hai, isliye hamesha check karte rahein.",
+      "createdAt": "2026-03-22T11:11:50.931Z"
+    },
+    {
+      "id": "msg_1774204011238",
+      "role": "user",
+      "text": "Mere gehu me keeda lag gaya, kya karu?",
+      "createdAt": "2026-03-22T18:26:51.238Z"
+    },
+    {
+      "id": "msg_1774205330183",
+      "role": "user",
+      "text": "Mere gehu me keeda lag gaya, kya karu?",
+      "createdAt": "2026-03-22T18:48:50.183Z"
+    },
+    {
+      "id": "msg_1774205331742",
+      "role": "assistant",
+      "text": "Keeda: Pata nahi (Gehu ka keeda)\nKhatra: Thoda\nKya hua: Gehu ki fasal mein keeda lag gaya hai.\nKya karo: Sabse pehle khet mein jaakar dekho ki keeda kaisa dikhta hai aur kitna nuksaan kar raha hai. | Agar chhota keeda hai, toh neem tel (5 ml prati litre paani) ka chhidkaav karke dekho. | Agar zyada nuksaan ho raha hai, toh turant apne nazdeeki Krishi Vigyan Kendra (KVK) se sampark karo aur sahi dawai ka naam pata karo.\nDawa: Neem Tel (Shuruaati ilaaj)",
+      "createdAt": "2026-03-22T18:48:51.742Z"
+    },
+    {
+      "id": "msg_1774286708086",
+      "role": "user",
+      "text": "Mere gehu me keeda lag gaya, kya karu?",
+      "createdAt": "2026-03-23T17:25:08.086Z"
+    },
+    {
+      "id": "msg_1774286710147",
+      "role": "assistant",
+      "text": "Keeda: Pata nahi (Gehu ka keeda)\nKhatra: Thoda\nKya hua: Gehu ki fasal mein keeda lag gaya hai.\nKya karo: Sabse pehle khet mein jaakar dekho ki keeda kaisa dikhta hai aur kitna nuksaan kar raha hai. | Agar chhota keeda hai, toh neem tel (5 ml prati litre paani) ka chhidkaav karke dekho. | Agar zyada nuksaan ho raha hai, toh turant apne nazdeeki Krishi Vigyan Kendra (KVK) se sampark karo aur sahi dawai ka naam pata karo.\nDawa: Neem Tel (Shuruaati ilaaj)",
+      "createdAt": "2026-03-23T17:25:10.147Z"
+    },
+    {
+      "id": "msg_1774286764793",
+      "role": "user",
+      "text": "Urea kitni maatra me daalein?",
+      "createdAt": "2026-03-23T17:26:04.793Z"
+    },
+    {
+      "id": "msg_1774286766414",
+      "role": "assistant",
+      "text": "Fasal: Pata nahi (Fasal ka naam bataiye)\nKhad plan: Urea: Iske liye fasal ka naam zaroori hai. (Iske liye fasal ka naam zaroori hai.)\nSavdhaani: Khad daalne se pehle hamesha apni mitti ki jaanch (Soil Test) karwayein aur KVK se salah lein.",
+      "createdAt": "2026-03-23T17:26:06.414Z"
+    },
+    {
+      "id": "msg_1774286784169",
+      "role": "user",
+      "text": "rice mai kitna paani duu",
+      "createdAt": "2026-03-23T17:26:24.169Z"
+    },
+    {
+      "id": "msg_1774286785988",
+      "role": "assistant",
+      "text": "Fasal: Dhaan (Rice)\nKab paani: Jab khet mein 1-2 inch paani hamesha bana rahe, khaaskar jadd banane aur doodh bharne ke samay.\nKitna paani: Khet mein lagbhag 5 cm (2 inch) paani hamesha bana rahe. Zyada paani se nuksaan ho sakta hai.\nTips: Jab paani ki kami ho tabhi paani dein, khet ko hamesha bhiga kar na rakhein. | Paani nikaalne ke baad hi urea jaise khad daalein. | Dhaan ki fasal ko paani ki sabse zyada zaroorat jadd banane aur seed banane ke time hoti hai.",
+      "createdAt": "2026-03-23T17:26:25.988Z"
+    },
+    {
+      "id": "msg_1774288106087",
+      "role": "user",
+      "text": "Dhaan me paani kab dena hai?",
+      "createdAt": "2026-03-23T17:48:26.087Z"
+    },
+    {
+      "id": "msg_1774288121140",
+      "role": "assistant",
+      "text": "Server slow hai. Thodi der baad dobara poochho.",
+      "createdAt": "2026-03-23T17:48:41.140Z"
+    },
+    {
+      "id": "msg_1774292367500",
+      "role": "user",
+      "text": "Dhaan me paani kab dena hai?",
+      "createdAt": "2026-03-23T18:59:27.500Z"
+    },
+    {
+      "id": "msg_1774292369065",
+      "role": "assistant",
+      "text": "Fasal: Dhaan (Rice)\nKab paani: Jab khet mein 1-2 inch paani hamesha bana rahe, khaaskar jadd banane aur doodh bharne ke samay.\nKitna paani: Khet mein lagbhag 5 cm (2 inch) paani hamesha bana rahe. Zyada paani se nuksaan ho sakta hai.\nTips: Jab paani ki kami ho tabhi paani dein, khet ko hamesha bhiga kar na rakhein. | Paani nikaalne ke baad hi urea jaise khad daalein. | Dhaan ki fasal ko paani ki sabse zyada zaroorat jadd banane aur seed banane ke time hoti hai.",
+      "createdAt": "2026-03-23T18:59:29.065Z"
+    }
+  ],
+  "helpFaqs": [
+    "Pest dikhe to pehla step kya karein?",
+    "Mitti report samajhne ka easy tarika?",
+    "Mandi rate low ho to kab bechein?"
+  ]
+}
